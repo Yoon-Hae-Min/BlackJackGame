@@ -1,7 +1,12 @@
 # Black Jack
 
-[TOC]
 
+####목차
+[1. 게임규칙](#1게임규칙)
+[2.게임 진행](#게임 진행)
+[3. 객체의 주요 내용](#객체의-주요-내용)
+[4. 객체 주요 내용 prototype](#객체-주요-내용-prototype)
+[2. 코드의 흐름](#코드의-흐름)
 
 
 ## **게임규칙**
@@ -43,7 +48,8 @@
 
 - UI: 기본적인 BalckJack게임에서 사용할 UI가 담겨져 있다
 
-![schematic](C:\Users\MS\Desktop\heamin\BlackJack\readmepicture\schematic.png)
+![schematic](https://user-images.githubusercontent.com/49224104/137627481-b74a3156-4a17-4d47-8ce7-fdfc810e44c1.png)
+
 
 ## **객체 주요 내용 prototype**
 
